@@ -1,5 +1,9 @@
 touch up_to_date
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+git pull
+>>>>>>> main
 =======
 git pull
 >>>>>>> main
